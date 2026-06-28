@@ -1,3 +1,7 @@
+## Dokumentacja online
+https://jbackk-lang.github.io/
+TIMDR + Λ–τ–ρ na danych 
+
 📘 TIMDER Multisensory Meditation Engine (TMME)
 Model do modelowania multisensorycznej medytacji geometrycznej TIMDER
 
